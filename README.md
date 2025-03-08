@@ -1,10 +1,22 @@
 # Приложение для поиска фрилансеров Jobsy
-
-### Участники:
+## ТП-5-4
+### Студенты:
 - [Тулицкайте Дарья](https://github.com/Jonnnnh)
-- [Шхикян Арпине]()
+- [Шхикян Арпине](https://github.com/nebula3879)
 - [Калгин Вадим]()
 - [Снегирёв Станислав](https://github.com/Sta22yan)
 - [Калач Максим](https://github.com/exactly228)
 - [Хохлов Андрей]()
 
+### Сервисы
+---
+[Jira - таск меннеджер](https://sharpine985.atlassian.net/jira/software/projects/SCRUM/list)
+[UML Диаграммы (Miro)](?)
+[Пользовательские сценарии (FigJam)](https://www.figma.com/board/AVAnDj6tfFRpa8TLdWko5z/user-stories?node-id=0-1&p=f&t=5K5WzRIoQg2yvfJ0-0)
+[Figma](https://www.figma.com/design/sYByAI9wSNtRy55wFDQigA/Jobsy?node-id=0-1&p=f&t=Gmeb8PQwZ2Dg0fhU-0)
+
+### Документация
+---
+
+[Swagger API](?)
+Техническое задание ([Docx](?)) ([Pdf](?))
