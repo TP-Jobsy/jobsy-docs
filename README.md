@@ -6,7 +6,7 @@
 
 - [Тулицкайте Дарья](https://github.com/Jonnnnh)
 - [Шхикян Арпине](https://github.com/nebula3879)
-- [Калгин Вадим]()
+- [Калгин Вадим](https://github.com/r00fer)
 - [Снегирёв Станислав](https://github.com/Sta22yan)
 - [Калач Максим](https://github.com/exactly228)
 - [Хохлов Андрей](https://github.com/Wonder010)
