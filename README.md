@@ -15,7 +15,7 @@
 
 [Jira - таск меннеджер](https://sharpine985.atlassian.net/jira/software/projects/SCRUM/list)
 
-[UML Диаграммы (Miro)](https://miro.com/welcomeonboard/VVIzdGhtT01QZVJRMEZmVlRFcndmU0x6clZrUVF3bEFyaWsvVVh5NVJCUUtPL0lpTVZKQ3VJMktHNTZFM0JlazJCSDJ6ZEU2MHdMWGZxN2hUNUxxaU85VnRyakFOVlFyUHhMblExQVdDQ2lqT2FLTjBYeS8zRXIrMTJFYXl0SGl0R2lncW1vRmFBVnlLcVJzTmdFdlNRPT0hdjE=?share_link_id=111583377799)
+[UML Диаграммы (Miro)](https://miro.com/welcomeonboard/MGFlM0NDUzk5U1VmTWs3b25wVURXMkp2MG00ajdUU1BFYjh5U2xkR0JuUDNWTG1PRVd1dUVmSm9XMlRQeHNmWUprRVZQaXR3ZFNpNjF6cmxJYSt0L085VnRyakFOVlFyUHhMblExQVdDQ2dxVUIyeDNrSVlKY1Y2VWNGNUNQcXByVmtkMG5hNDA3dVlncnBvRVB2ZXBnPT0hdjE=?share_link_id=609839369977)
 
 [Пользовательские сценарии (FigJam)](https://www.figma.com/board/AVAnDj6tfFRpa8TLdWko5z/user-stories?node-id=0-1&p=f&t=5K5WzRIoQg2yvfJ0-0)
 
