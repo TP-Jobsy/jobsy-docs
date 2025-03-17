@@ -2,3 +2,6 @@
 	path = client
 	url = https://github.com/Jonnnnh/jobsy-client.git
     branch = main
+[submodule "server"]
+	path = server
+	url = https://github.com/Jonnnnh/jobsy-server.git
