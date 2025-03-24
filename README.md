@@ -25,6 +25,8 @@
 
 [Swagger API](https://petstore.swagger.io/?url=https://raw.githubusercontent.com/Jonnnnh/jobsy-server/refs/heads/master/docs/swagger.yaml);
 
+Roadmap ([Docx](?))
+
 Техническое задание ([Docx](?)) ([Pdf](?));
 
 #### Наши средства реализации:
