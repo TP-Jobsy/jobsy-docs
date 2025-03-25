@@ -1,27 +1,42 @@
-# Приложение для поиска фрилансеров Jobsy
+![License](https://img.shields.io/badge/license-MIT-blue.svg)
+![Java](https://img.shields.io/badge/Java-17+-red)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-3.4.3-brightgreen)
+![Flutter](https://img.shields.io/badge/Flutter-%E2%9D%A4-blue)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%3E%3D13-blue)
 
-## ТП-5-4
+# Приложение для поиска фрилансеров — Jobsy
 
-### Студенты:
+---
+## Описание проекта:
 
-- [Тулицкайте Дарья](https://github.com/Jonnnnh)
-- [Шхикян Арпине](https://github.com/nebula3879)
-- [Калгин Вадим](https://github.com/r00fer)
-- [Снегирёв Станислав](https://github.com/Sta22yan)
-- [Калач Максим](https://github.com/exactly228)
-- [Хохлов Андрей](https://github.com/Wonder010)
+**Jobsy** — это мобильное приложение, предназначенное для взаимодействия между фрилансерами и заказчиками. Платформа упрощает поиск, создание проектов и коммуникацию между пользователями, делая процесс сотрудничества удобным, прозрачным и технологичным.
 
-### Сервисы
+---
 
-[Jira - таск меннеджер](https://sharpine985.atlassian.net/jira/software/projects/SCRUM/list)
+## Команда (ТП-5-4)
 
-[UML Диаграммы (Miro)](https://miro.com/welcomeonboard/MGFlM0NDUzk5U1VmTWs3b25wVURXMkp2MG00ajdUU1BFYjh5U2xkR0JuUDNWTG1PRVd1dUVmSm9XMlRQeHNmWUprRVZQaXR3ZFNpNjF6cmxJYSt0L085VnRyakFOVlFyUHhMblExQVdDQ2dxVUIyeDNrSVlKY1Y2VWNGNUNQcXByVmtkMG5hNDA3dVlncnBvRVB2ZXBnPT0hdjE=?share_link_id=609839369977)
+- [Тулицкайте Дарья](https://github.com/Jonnnnh) - Team Lead, Бизнес-аналитик, Дизайнер, Backend;
+- [Шхикян Арпине](https://github.com/nebula3879) - PM, Технический писатель;
+- [Калгин Вадим](https://github.com/r00fer) - Бизнес-аналитик;
+- [Снегирёв Станислав](https://github.com/Sta22yan) - Backend, DevOps;
+- [Калач Максим](https://github.com/exactly228) - Frontend;
+- [Хохлов Андрей](https://github.com/Wonder010) - QA.
 
-[Пользовательские сценарии (FigJam)](https://www.figma.com/board/AVAnDj6tfFRpa8TLdWko5z/user-stories?node-id=0-1&p=f&t=5K5WzRIoQg2yvfJ0-0)
+---
 
-[Figma](https://www.figma.com/design/sYByAI9wSNtRy55wFDQigA/Jobsy?node-id=0-1&p=f&t=Gmeb8PQwZ2Dg0fhU-0)
+## Сервисы
 
-### Документация
+[Jira](https://sharpine985.atlassian.net/jira/software/projects/SCRUM/list) — Task manager
+
+[Miro](https://miro.com/welcomeonboard/MGFlM0NDUzk5U1VmTWs3b25wVURXMkp2MG00ajdUU1BFYjh5U2xkR0JuUDNWTG1PRVd1dUVmSm9XMlRQeHNmWUprRVZQaXR3ZFNpNjF6cmxJYSt0L085VnRyakFOVlFyUHhMblExQVdDQ2dxVUIyeDNrSVlKY1Y2VWNGNUNQcXByVmtkMG5hNDA3dVlncnBvRVB2ZXBnPT0hdjE=?share_link_id=609839369977) — UML-диаграммы, Roadmap
+
+[FigJam](https://www.figma.com/board/AVAnDj6tfFRpa8TLdWko5z/user-stories?node-id=0-1&p=f&t=5K5WzRIoQg2yvfJ0-0)  — User stories, screen flow
+
+[Figma](https://www.figma.com/design/sYByAI9wSNtRy55wFDQigA/Jobsy?node-id=0-1&p=f&t=Gmeb8PQwZ2Dg0fhU-0) — UI-дизайн
+
+---
+
+## Документация
 
 [Swagger API](https://petstore.swagger.io/?url=https://raw.githubusercontent.com/Jonnnnh/jobsy-server/refs/heads/master/docs/swagger.yaml);
 
@@ -29,10 +44,28 @@ Roadmap ([Docx](?))
 
 Техническое задание ([Docx](?)) ([Pdf](?));
 
-#### Наши средства реализации:
+---
 
-- Front: Flutter;
-- Back: Java, Spring Framework;
-- СУБД: PostgreSQL;
-- Дизайн: Figma;
-- Диаграммы: FigJam, Miro, Draw.io. 
+## Технологии
+
+| Компонент     | Технологии            |
+|---------------|-----------------------|
+| Frontend      | Flutter               |
+| Backend       | Java, Spring Boot     |
+| База данных   | PostgreSQL            |
+| UI/UX         | Figma                 |
+| Диаграммы     | Miro, Draw.io, FigJam |
+
+---
+
+## Документация проекта:
+
+---
+
+## Презентация проекта:
+
+---
+
+## Видео по проекту:
+
+---
