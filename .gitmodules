@@ -5,3 +5,4 @@
 [submodule "server"]
 	path = server
 	url = https://github.com/Jonnnnh/jobsy-server.git
+	branch = master
