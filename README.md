@@ -51,6 +51,8 @@
 
 Roadmap ([Docx](?)) ([Pdf](?));
 
+Brandbook ([Pdf](https://github.com/Jonnnnh/Jobsy/blob/main/documentation/presentation/BrandBook.pdf));
+
 Техническое задание ([Docx](?)) ([Pdf](?));
 
 ---
@@ -72,8 +74,6 @@ Roadmap ([Docx](?)) ([Pdf](?));
 ---
 
 ## Презентация проекта:
-
-Brandbook ([Pdf](https://github.com/Jonnnnh/Jobsy/blob/main/documentation/presentation/BrandBook.pdf));
 
 ---
 
