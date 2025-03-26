@@ -41,7 +41,7 @@
 
 [FigJam](https://www.figma.com/board/AVAnDj6tfFRpa8TLdWko5z/user-stories?node-id=0-1&p=f&t=5K5WzRIoQg2yvfJ0-0)  — User stories, screen flow
 
-[Figma](https://www.figma.com/design/sYByAI9wSNtRy55wFDQigA/Jobsy?node-id=0-1&p=f&t=Gmeb8PQwZ2Dg0fhU-0) — UI-дизайн, BrendBook
+[Figma](https://www.figma.com/design/sYByAI9wSNtRy55wFDQigA/Jobsy?node-id=0-1&p=f&t=Gmeb8PQwZ2Dg0fhU-0) — UI-дизайн, BrandBook
 
 ---
 
@@ -72,6 +72,8 @@ Roadmap ([Docx](?)) ([Pdf](?));
 ---
 
 ## Презентация проекта:
+
+Brandbook ([Pdf](https://github.com/Jonnnnh/Jobsy/blob/main/documentation/presentation/BrandBook.pdf));
 
 ---
 
